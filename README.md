@@ -9,6 +9,15 @@ It aimed to assist students in tackling  the wealth of  informations gathered du
 
 Our  Study Guide contains  notes on an array of topics covered in the Pre-work . From  HTML, CSS, Git, to JavaScript.
 
+During this project, I've learned how to do the following:
+* Use Git version control to create a repo and save work.
+* Create a basic HTML page using semantic HTML.
+* Select and style HTML elements using an external CSS style sheet.
+* Identify a JavaScript array and the role of variables in JavaScript.
+* Summarize the basics of control flow and conditionals.
+* Use a ```for``` loop to complete a task using logical operators.
+* Deploy a static website to GitHub Pages.
+
 ## Installation
 
 N/A
