@@ -1,4 +1,4 @@
-# 00-pre-work-study-guide
+# 00-prework-study-guide
 
 ## Description
 
